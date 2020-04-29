@@ -3,9 +3,9 @@
 # Site wide configuration
 #####################################
 #
-title: Leonids
+title: Milly
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: A place to share all things cyber security.
 url: # the base hostname & protocol for your site
 keywords: ["blog", "jekyll"]
 
@@ -33,10 +33,10 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
+  name: Milly
   avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  job: "Information Security Professional"
+  bio: "A place to share all things cyber security."
   email:
   disqus-shortname:
   twitter: #username
